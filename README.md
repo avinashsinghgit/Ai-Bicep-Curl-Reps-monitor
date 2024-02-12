@@ -8,7 +8,7 @@ This is my debut project in the realm of "Pose Estimation using DNN". The core f
 
 ## Acknowledgements
 
-This project drew inspiration from Nicholas Renotte's insightful YouTube tutorial titled ["AI Pose Estimation with Python and MediaPipe | Plus AI Gym Tracker Project"](https://www.youtube.com/watch?v=06TE_TSeIoo). The accompanying code and resources can be found on his [GitHub repository](https://github.com/nicknochnack/MediaPipePoseEstimation/blob/main/Media%20Pipe%20Pose%20Tutorial.ipynb).
+This project drew inspiration from Nicholas Renotte's insightful YouTube tutorial titled ["AI Pose Estimation with Python and MediaPipe | Plus AI Gym Tracker Project"](https://www.youtube.com/watch?v=06TE_U21FK4). The accompanying code and resources can be found on his [GitHub repository](https://github.com/nicknochnack/MediaPipePoseEstimation/blob/main/Media%20Pipe%20Pose%20Tutorial.ipynb).
 
 ## But what's additional compared to Nicholas
 My model can detect and count reps for both left and right arm angles.
